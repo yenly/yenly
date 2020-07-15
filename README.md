@@ -1,4 +1,4 @@
-### Boop! :nose::point_left:
+### Boop! :point_right::nose:
 
 <!--
 **yenly/yenly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
